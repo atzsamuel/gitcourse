@@ -7,6 +7,7 @@
 ## Description
 Created by Samuel
 It's have examples with linux, windows and macos
+*Available for all the ages
 In this course i learned how to work with git and github and best management my projects and how to work better with a developer team and have a best practices
 ## Git Commands
 ### Terminal Commands / Comandos de la Terminal
